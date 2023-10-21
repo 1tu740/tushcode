@@ -24,7 +24,7 @@ public class lnbcal {
         }
 
         else {
-            System.out.println("Hello LNB code is running fine !!");
+            System.out.println("Hello  tushar LNB code is running fine !!");
         }
 
     }
